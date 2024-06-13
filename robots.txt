@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owtiontpore.github.io/sitemap.html
+Sitemap: https://owtiontpore.github.io/app/sitemap.html
+Sitemap: https://owtiontpore.github.io/assets/sitemap.html
+Sitemap: https://owtiontpore.github.io/css/sitemap.html
+Sitemap: https://owtiontpore.github.io/includes/sitemap.html
+Sitemap: https://owtiontpore.github.io/item/sitemap.html
+Sitemap: https://owtiontpore.github.io/src/sitemap.html
